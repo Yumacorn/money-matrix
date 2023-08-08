@@ -1,4 +1,7 @@
 # money-matrix
+Money Matrix - a web app designed as simple set of financial tools for educational purpose to highlight how small changes over time can affect overall financial health and outcomes.
+
+Used npm create to build base Vue App, and custom build for frontend UI and interactive components for user.
 
 ## Project setup
 ```
